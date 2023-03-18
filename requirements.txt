@@ -6,4 +6,5 @@ sklearn
 catboost
 xgboost
 dill
+Flask
 #-e .
